@@ -1,0 +1,23 @@
+{
+  "name": "wildcat",
+  "version": "1.0.0",
+  "description": "типа описание",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sakura Team",
+  "license": "ISC",
+  "dependencies": {
+    "custom-translate": "^2.2.8",
+    "discord.js": "^12.3.1",
+    "discord.js-commando": "^0.10.0",
+    "figlet": "^1.5.0",
+    "flipacoin": "^1.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.0",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.1",
+    "util": "^0.12.3"
+  }
+}
